@@ -12,6 +12,6 @@ struct _Cast_WeatherApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
+        } 
     }
 }
